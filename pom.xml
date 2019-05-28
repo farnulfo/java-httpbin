@@ -240,7 +240,7 @@
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <java.version>1.7</java.version>
-    <jetty.version>9.2.12.v20150709</jetty.version>
+    <jetty.version>9.4.18.v20190429</jetty.version>
   </properties>
 
   <prerequisites>
